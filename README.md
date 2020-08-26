@@ -1,5 +1,5 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆 Call me Christie
-<img src="https://gilmour.com/wp-content/uploads/2018/03/growing-sunflowers.jpg" alt="My favorite flower" width="800" height="300"
+<img src="https://gilmour.com/wp-content/uploads/2018/03/growing-sunflowers.jpg" alt="My favorite flower" width="800" height="300">
 
 📚 I’m currently learning HTML, CSS and JavaScript
 <br>
