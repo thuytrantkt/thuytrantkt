@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey YOU 🔆(✿◠‿◠)🔆 Call me Christie
+<img src="https://gilmour.com/wp-content/uploads/2018/03/growing-sunflowers.jpg" alt="My favorite flower" width="800" height="300"
 
-<!--
-**christiesunnie/christiesunnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I’m currently learning HTML, CSS and JavaScript
+<br>
+<br>
+🤔 I’m looking for feedbacks, tips and new things to learn
+ <br>
+ <br>
+💬 Ask me if you are interested in my ongoing journey or working with me
+<br>
+<br>
+📫 Reach me at: christiesunnie@gmail.com
+<br>
+<br>
+🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
