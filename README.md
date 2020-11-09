@@ -13,5 +13,8 @@
 📫 Reach me at: christiesunnie@gmail.com
 <br>
 <br>
+🔗My LinkedIn: www.linkedin.com/in/christinatranvn
+<br>
+<br>
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
 
