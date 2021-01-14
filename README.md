@@ -14,13 +14,10 @@ During this challenging journey, I have equipped my toolkit below as:
 - The solid JavaScript fundamentals and ES5 & ES6+;
 - Experience Web APIs, DOM & Events Fundamentals
 - Version Control System Git & GitHub
-<br>
-<br>
+
 📫 Reach me at: christiesunnie@gmail.com
 <br>
-<br>
 🔗My LinkedIn: www.linkedin.com/in/christinatranvn
-<br>
 <br>
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
 
