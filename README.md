@@ -14,6 +14,7 @@ During this challenging journey, I have equipped my toolkit below as:
 - The solid JavaScript fundamentals and ES5 & ES6+;
 - Experience Web APIs, DOM & Events Fundamentals
 - Version Control System Git & GitHub
+- Practice with DOM & Web APIs, AJAX and JSON
 
 📫 Reach me at: christiesunnie@gmail.com
 
