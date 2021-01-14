@@ -16,8 +16,8 @@ During this challenging journey, I have equipped my toolkit below as:
 - Version Control System Git & GitHub
 
 📫 Reach me at: christiesunnie@gmail.com
-<br>
+
 🔗My LinkedIn: www.linkedin.com/in/christinatranvn
-<br>
+
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
 
