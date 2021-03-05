@@ -5,20 +5,20 @@
 <p>🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.</p>
 
 🧰 Inside my toolkit box are:
-- The strong fundamentals of HTML5, CSS3
-- Best practice in the modern website development
-- Implementation responsive designs that work across mobile and desktop devices
-- Experience with CSS media queries, CSS effects, transitions, and transformations; 
-- Knowledge of cross-browser and device compatibility issues and limitations
-- Modern modules & NPM
-- Front-end MVC architecture pattern 
-- Website accessibility requirements
-- The solid JavaScript fundamentals and ES5 & ES6+;
-- Experience Web APIs, DOM & Events Fundamentals
-- Version Control System Git & GitHub
-- Practice with DOM & Web APIs, AJAX and JSON
+•	The strong fundamentals of HTML5, CSS3
+•	Best practices in the modern website development
+•	Implementation responsive designs that work across mobile and desktop devices
+•	Experience with CSS media queries, CSS effects, transitions, and transformations. 
+•	Knowledge of cross-browser and device compatibility issues and limitations
+•	Modern modules & NPM
+•	Front-end MVC architecture pattern 
+•	Website accessibility requirements
+•	The solid JavaScript fundamentals and ES5 & ES6+.
+•	Experience Web APIs, DOM & Events Fundamentals
+•	Version Control System Git & GitHub
+•	Practice with DOM & Web APIs, AJAX and JSON
 
-📫 Reach me at: christiesunnie@gmail.com
+📧 Reach me at: christiesunnie@gmail.com
 
 🔗My LinkedIn: https://www.linkedin.com/in/christietran/ <br/>
 🔗My Portfolio: https://christie-tran-portfolio.netlify.app/
