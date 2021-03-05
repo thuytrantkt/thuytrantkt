@@ -25,7 +25,7 @@ During this challenging journey, I have equipped my toolkit below as:
 
 📫 Reach me at: christiesunnie@gmail.com
 
-🔗My LinkedIn: https://www.linkedin.com/in/christietran/
+🔗My LinkedIn: https://www.linkedin.com/in/christietran/ <br/>
 🔗My Portfolio: https://christie-tran-portfolio.netlify.app/
 
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
