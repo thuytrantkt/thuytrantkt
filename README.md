@@ -4,7 +4,7 @@
 <p>💎 Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.</p>
 <p>🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.</p>
 
-Inside my toolkit box are:
+🧰 Inside my toolkit box are:
 - The strong fundamentals of HTML5, CSS3
 - Best practice in the modern website development
 - Implementation responsive designs that work across mobile and desktop devices
