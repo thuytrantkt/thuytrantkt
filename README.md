@@ -2,14 +2,11 @@
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.
 
-I use my perseverance and critical thinking skills to overcome difficult obstacles and solve complicated problems which hopefully will assist me in striving toward my first job as Front End Web Developer and commence my career in the tech industry. 
+💎 Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals!
 
-Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals!
+🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.
 
-Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.
-
-
-During this challenging journey, I have equipped my toolkit below as:
+Inside my toolkit box are:
 - The strong fundamentals of HTML5, CSS3
 - Best practice in the modern website development
 - Implementation responsive designs that work across mobile and desktop devices
