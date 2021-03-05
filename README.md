@@ -1,5 +1,5 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆 Call me Christie
-<img src="https://www.loom.com/share/22bdc342a3394e4db242dc3cbba7b4cc" alt="My favorite flower" width="800" height="300">
+<img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 📚 Along with Law and Hospitality background, I have fulfilled my career journey with Front End Web Development. Here is where I can find joy, happiness, and challenges. And, I believe this field is where I can shine.
 
 During this challenging journey, I have equipped my toolkit below as:
