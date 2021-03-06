@@ -21,7 +21,7 @@
 📧 Reach me at: christiesunnie@gmail.com
 
 🔗My LinkedIn: https://www.linkedin.com/in/christiesunnie/ <br/>
-🔗My Portfolio: https://christie-tran-portfolio.netlify.app/
+🔗My Portfolio: https://christiesunnie-portfolio.netlify.app/
 
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
 
