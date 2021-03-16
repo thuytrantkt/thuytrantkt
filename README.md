@@ -25,8 +25,7 @@
 <br />
 
 ### 📧 How to reach me:
-<br />
-<br />
+
 [<img align="left" alt="christiesunie | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="christiesunnie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="christiesunie | Instagram" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,7 +36,7 @@
 [instagram]: https://www.instagram.com/christiesunnie/
 
 
-### 🔗My Portfolio Site: https://christiesunnie.com/
+🔗My Portfolio Site: https://christiesunnie.com/
 
 <p>Check out my works 👇👇</p>
 
