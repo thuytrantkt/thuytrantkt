@@ -29,6 +29,7 @@
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
 [instagram]: https://www.instagram.com/christiesunnie/
 
+<br />
 🔗My Portfolio: https://christiesunnie.com/
 
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
