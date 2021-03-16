@@ -20,6 +20,21 @@
 
 📧 Reach me at: christiesunnie@gmail.com
 
+     <div>
+                    <a href="https://twitter.com/christiesunnie">
+                        <i class="fab fa-twitter fa-2x"></i>
+                    </a>
+                    <a href="https://www.instagram.com/christiesunnie/">
+                        <i class="fab fa-instagram fa-2x"></i>
+                    </a>
+                    <a href="https://github.com/christiesunnie">
+                        <i class="fab fa-github fa-2x"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/christiesunnie/">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                    </a>
+     </div>
+
 🔗My LinkedIn: https://www.linkedin.com/in/christiesunnie/ <br/>
 🔗My Portfolio: https://christiesunnie.com/
 
