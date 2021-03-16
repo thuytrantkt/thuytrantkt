@@ -1,6 +1,8 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆
 
 ### I'm a Front End Web Developer
+[![Twitter Follow](https://img.shields.io/twitter/follow/christiesunnie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabod_media&screen_name=schristiesunnie)
+
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 
 ### ♐ About me
