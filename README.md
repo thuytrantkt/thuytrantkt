@@ -24,10 +24,12 @@
 [<img align="left" alt="christiesunnie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="christiesunie | Instagram" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  <br /> 
+ 
 [twitter]: https://twitter.com/christiesunnie
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
 [instagram]: https://www.instagram.com/christiesunnie/
-<br />
+
+
 🔗My Portfolio: https://christiesunnie.com/
 
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
