@@ -1,6 +1,6 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆
 
-### Front End Web Developer
+### I'm a Front End Web Developer
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 <br />
 <ul>
