@@ -3,17 +3,17 @@
 ### I'm a Front End Web Developer
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 <br />
-<ul>
-<li>📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.</li>
- <br />
-<li>💎 Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.</li>
- <br />
-<li>🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.</li>
- <br />
- <li>⚡ Fun fact:  🏍 I am a Biker in the summer on Kawasaki Ninja 300 🌞 </li>
-</ul>
 
-### 🧰 Inside my toolkit box are:
+### About me
+📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.
+ <br />
+💎 Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.
+ <br />
+🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.
+ <br />
+⚡ Fun fact:  🏍 I am a Biker in the summer on Kawasaki Ninja 300 🌞
+
+### 🧰 My toolkit box:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-📧 Reach me at:
+### 📧 How to reach me:
 <br />
 <br />
 [<img align="left" alt="christiesunie | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
