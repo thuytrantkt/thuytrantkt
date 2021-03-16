@@ -20,6 +20,11 @@
 
 📧 Reach me at: christiesunnie@gmail.com
 
+[twitter]: https://twitter.com/christiesunnie
+[linkedin]: https://www.linkedin.com/in/christiesunnie/
+[instagram]: https://www.instagram.com/christiesunnie/
+
+
 🔗My LinkedIn: https://www.linkedin.com/in/christiesunnie/ <br/>
 🔗My Portfolio: https://christiesunnie.com/
 
