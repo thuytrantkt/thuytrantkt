@@ -2,7 +2,6 @@
 
 ### I'm a Front End Web Developer
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
-<br />
 
 ### About me
 📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.
@@ -31,7 +30,7 @@
 [<img align="left" alt="christiesunie | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="christiesunnie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="christiesunie | Instagram" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- <br /> 
+<br /> 
  
 [twitter]: https://twitter.com/christiesunnie
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
