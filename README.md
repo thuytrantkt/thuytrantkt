@@ -2,17 +2,21 @@
 
 ### I'm Junior Front End Web Developer
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
+<br />
 <ul>
 <li>📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.</li>
+ <br />
 <li>💎 Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.</li>
+ <br />
 <li>🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.</li>
 </ul>
 
 ### 🧰 Inside my toolkit box are:
+br />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="jQuery" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -34,7 +38,7 @@
 [instagram]: https://www.instagram.com/christiesunnie/
 
 
-🔗My Portfolio: https://christiesunnie.com/
+### 🔗My Portfolio Site: https://christiesunnie.com/
 
-### 🏍 When I don't code, I am a Biker in the summer on Kawasaki Ninja 300 🌞
+🏍 When I don't code, I am a Biker in the summer on Kawasaki Ninja 300 🌞
 
