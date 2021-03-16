@@ -1,6 +1,6 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆
 
-### I'm Junior Front End Web Developer
+### Front End Web Developer
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 <br />
 <ul>
@@ -9,6 +9,8 @@
 <li>💎 Also, I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.</li>
  <br />
 <li>🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.</li>
+ <br />
+ <li>⚡ Fun fact:  🏍 I am a Biker in the summer on Kawasaki Ninja 300 🌞 </li>
 </ul>
 
 ### 🧰 Inside my toolkit box are:
@@ -38,5 +40,5 @@
 
 ### 🔗My Portfolio Site: https://christiesunnie.com/
 
-🏍 When I don't code, I am a Biker in the summer on Kawasaki Ninja 300 🌞
+<p>Check out my works 👇👇</p>
 
