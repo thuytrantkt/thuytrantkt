@@ -5,18 +5,6 @@
 <p>🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.</p>
 
 🧰 Inside my toolkit box are:
-•	The strong fundamentals of HTML5, CSS3
-•	Best practices in the modern website development
-•	Implementation responsive designs that work across mobile and desktop devices
-•	Experience with CSS media queries, CSS effects, transitions, and transformations. 
-•	Knowledge of cross-browser and device compatibility issues and limitations
-•	Modern modules & NPM
-•	Front-end MVC architecture pattern 
-•	Website accessibility requirements
-•	The solid JavaScript fundamentals and ES5 & ES6+.
-•	Experience Web APIs, DOM & Events Fundamentals
-•	Version Control System Git & GitHub
-•	Practice with DOM & Web APIs, AJAX and JSON
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,19 +16,17 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
-📧 Reach me at: christiesunnie@gmail.com
 
+📧 Reach me at: christiesunnie@gmail.com
+<br />
 [<img align="left" alt="abodmedia | Twitter" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="abodmedia | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abodmedia | Instagram" width="22px"  color="blue"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  <br /> 
-
 [twitter]: https://twitter.com/christiesunnie
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
 [instagram]: https://www.instagram.com/christiesunnie/
 
-
-🔗My LinkedIn: https://www.linkedin.com/in/christiesunnie/ <br/>
 🔗My Portfolio: https://christiesunnie.com/
 
 🏍 Fun fact: I love conquering the speed and riding my Kawasaki Ninja 300 in my free time
