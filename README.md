@@ -6,9 +6,12 @@
 ### ♐ About me
 📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.
 <br/>
+<br/>
 💎 I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.
 <br/>
+<br/>
 🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.
+<br/>
 <br/>
 ⚡ Fun fact:  🏍 I am a Biker in the summer on Kawasaki Ninja 300 🌞
 <br />
