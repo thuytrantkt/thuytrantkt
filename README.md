@@ -6,15 +6,16 @@
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 
 ### ♐ About me
-📚 Currently pursuing my learning at Juno College of Technology to extend my capabilities and skills in building applications.
+🏂 I'm an enthusiastic and adventurous web developer who likes exploring and enjoying challenges as the nutrition for my growth and motivation.
 <br/>
 <br/>
-💎 I value myself as someone self-motivated, detail-oriented, and responsible for my work by always looking forward to positive perspectives, looking for learning opportunities to grow, and working as a team for accomplishing goals.
+🔙 My joy working as F&B Manager is connecting and mentoring team members with my leadership and problem-solving skills. And I leverage my strong analytical and critical thinking skills as a Legal Consultant to develop clean and logical applications. 
 <br/>
 <br/>
-🔙 Working in the Law & Hospitality industry helped me sharpen my skills in identifying and solving problems, time management, planning, customer service, and leadership which effectively lead to terrific results on my team and clients respectively.
+💎 I value myself as someone self-motivated, detail-oriented, and always being positive in any circumstances for inspiring people in my surroundings.
 <br/>
 <br/>
+
 ⚡ Fun fact:  🏍 I am a Biker in the summer on Kawasaki Ninja 300 🌞
 <br />
 
