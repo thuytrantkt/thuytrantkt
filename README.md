@@ -6,13 +6,13 @@
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 
 ### ♐ About me
-🏂 I'm an enthusiastic and adventurous web developer who likes exploring and enjoying challenges as the nutrition for my growth and motivation.
+🏂 An enthusiastic and adventurous web developer who always looks for challenges to grow and keep motivated. 
 <br/>
 <br/>
-🔙 My joy working as F&B Manager is connecting and mentoring team members with my leadership and problem-solving skills. And I leverage my strong analytical and critical thinking skills as a Legal Consultant to develop clean and logical applications. 
+🔙 With my previous experience as Food and Beverage Manager, I have earned my leadership and problem-solving skills. In addition, I transfer my strong analytical and critical thinking skills as a Legal Consultant to develop optimized and logical applications. 
 <br/>
 <br/>
-💎 I value myself as someone self-motivated, detail-oriented, and always being positive in any circumstances for inspiring people in my surroundings.
+💎 Also, I value myself as someone self-motivated, detail-oriented, and always being positive for inspiring people in my surroundings.
 <br/>
 <br/>
 
