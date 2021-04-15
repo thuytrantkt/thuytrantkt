@@ -9,7 +9,7 @@
 🏂 An enthusiastic web developer who always takes on new challenges to grow and keep motivated.
 <br/>
 <br/>
-🔙 My experience in the Hospitality and Law industry enhanced my strong critical thinking and problem-solving skills which are helpful to build optimized and logical apps in web development.
+🔙 I am excited to bring my strong critical thinking and problem-solving skills from my experience in the Hospitality and Law industry into web development to build optimized and logical apps.
 <br/>
 <br/>
 💎 In my free time, I enjoy riding motorcycles and playing extreme sports that bring me the positivity to inspire people in my future team.
