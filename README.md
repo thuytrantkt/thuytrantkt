@@ -6,13 +6,13 @@
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/005/570/original/Untitled.png?1614963312" alt="My favorite flower" width="800" height="300">
 
 ### ♐ About me
-🏂 An enthusiastic and adventurous web developer who always looks for challenges to grow and keep motivated. 
+🏂 An enthusiastic web developer who always takes on new challenges to grow and keep motivated.
 <br/>
 <br/>
-🔙 With my previous experience as Food and Beverage Manager, I have earned my leadership and problem-solving skills. In addition, I transfer my strong analytical and critical thinking skills as a Legal Consultant to develop optimized and logical applications. 
+🔙 My experience in the Hospitality and Law industry enhanced my strong critical thinking and problem-solving skills which are helpful to build optimized and logical apps in web development.
 <br/>
 <br/>
-💎 Also, I value myself as someone self-motivated, detail-oriented, and always being positive for inspiring people in my surroundings.
+💎 In my free time, I enjoy riding motorcycles and playing extreme sports that bring me the positivity to inspire people in my future team.
 <br/>
 <br/>
 
