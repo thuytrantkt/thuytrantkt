@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-⚡ Fun fact:  🏍 I am a Biker in the summer on Kawasaki Ninja 300 🌞
+⚡ Fun fact:  🏍 I am a Biker in summer on Kawasaki Ninja 300 🌞
 <br />
 
 ### 🧰 My toolkit box:
