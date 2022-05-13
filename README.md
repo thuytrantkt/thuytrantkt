@@ -12,12 +12,6 @@
 🔙 I am excited to bring my strong critical thinking and problem-solving skills from my experience in the Hospitality and Law industry into web development to build optimized and logical apps.
 <br/>
 <br/>
-💎 In my free time, I enjoy riding motorcycles and playing extreme sports that bring me the positivity to inspire people in my future team.
-<br/>
-<br/>
-
-⚡ Fun fact:  🏍 I am a Biker in summer on Kawasaki Ninja 300 🌞
-<br />
 
 ### 🧰 My toolkit box:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
