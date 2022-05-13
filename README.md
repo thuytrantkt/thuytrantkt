@@ -35,7 +35,7 @@
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
 [instagram]: https://www.instagram.com/christiesunnie/
 
-🔗My Portfolio Site: https://christiesunnie.com/
+<!-- 🔗My Portfolio Site: https://christiesunnie.com/ -->
 
 <p>Check out my works 👇👇👇</p>
 
