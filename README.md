@@ -28,7 +28,6 @@
 ### 📭 How to reach me:
 [<img align="left" alt="christiesunie | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="christiesunnie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="christiesunie | Instagram" width="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br /> 
  
 [twitter]: https://twitter.com/christiesunnie
