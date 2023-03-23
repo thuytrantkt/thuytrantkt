@@ -1,36 +1,31 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆
 
 ### I'm Software Engineer
-[![Twitter Follow](https://img.shields.io/twitter/follow/christiesunnie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabod_media&screen_name=christiesunnie)
 
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/008/609/original/background-portfolio.png?1620259476" alt="My favorite flower" width="800" height="300">
 
 ### ♐ About me
-🏂 An enthusiastic web developer who always takes on new challenges to grow and keep motivated.
-<br/>
-<br/>
-🔙 I am excited to bring my strong critical thinking and problem-solving skills from my experience in the Hospitality and Law industry into web development to build optimized and logical apps.
-<br/>
-<br/>
+🌻 I'm an enthusiastic software engineer who always shows my curiosity and ability to ask critical questions that would bring the potential to develop a better quality product. I have never stopped challenging myself in everything I do, believing that the results will benefit me to grow or achieve. 🌻
+
+✨ I have found my passion in building software because I have the power to find solutions that help boost efficiency and make users' lives even better, personally and professionally. 
+
+I also love exploring nature, playing outdoor activities, and doing yoga, which keep my healthy work-life balance.✨
 
 ### 🧰 My toolkit box:
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jQuery" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/sass-icon.svg" alt="SASS Icon" /> 
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/storybook-icon.svg" alt="Storybook Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 
 ### 📭 How to reach me:
-[<img align="left" alt="christiesunie | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="christiesunnie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br /> 
  
-[twitter]: https://twitter.com/christiesunnie
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
 
 <p>Check out my works 👇👇👇</p>
