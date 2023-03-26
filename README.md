@@ -24,5 +24,3 @@ I also love exploring nature, playing outdoor activities, and doing yoga, which 
  
 [linkedin]: https://www.linkedin.com/in/christiesunnie/
 
-<p>Check out my works 👇👇👇</p>
-
