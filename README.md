@@ -1,9 +1,5 @@
 ### Hey YOU 🔆(✿◠‿◠)🔆
 
-### I'm Software Engineer
-
-<img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/008/609/original/background-portfolio.png?1620259476" alt="My favorite flower" width="800" height="300">
-
 ### ♐ About me
 🌻 I'm an enthusiastic software engineer who always shows my curiosity and ability to ask critical questions that would bring the potential to develop a better quality product. I have never stopped challenging myself in everything I do, believing that the results will benefit me to grow or achieve. 🌻
 
