@@ -18,5 +18,5 @@ I also love exploring nature, playing outdoor activities, and doing yoga, which 
 [<img align="left" alt="christiesunnie | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br /> 
  
-[linkedin]: https://www.linkedin.com/in/christiesunnie/
+[Linkedin]: https://www.linkedin.com/in/thuytrantkt/
 
